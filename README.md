@@ -1,1 +1,1 @@
-# Machine-Learning-Applications-in-Medicine-course-
+# Bayesian_models-Project
